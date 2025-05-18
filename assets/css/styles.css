@@ -28,6 +28,8 @@ body {
     border-radius: 8px;
 }
 
+
+
 .header {
     background-color: var(--primary-color);
     color: white;
@@ -120,4 +122,7 @@ body {
     .table {
         font-size: 14px;
     }
+}
+.about{
+    color: red;
 }
